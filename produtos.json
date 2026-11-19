@@ -1,0 +1,8 @@
+[
+  { "id": "vela-lavanda", "nome": "Vela Aromática Lavanda", "preco": 59.9, "precoAntigo": 69.9, "imagem": "img/produto1.svg", "categoria": "Casa", "descricao": "Vela de cera vegetal com óleo essencial de lavanda. Queima por aproximadamente 30 horas.", "variacoes": ["150 g", "300 g"], "linkPagamento": "", "disponivel": true, "destaque": true },
+  { "id": "kit-skincare", "nome": "Kit Skincare Natural", "preco": 129.9, "imagem": "img/produto2.svg", "categoria": "Cuidados", "descricao": "Sabonete facial, tônico e hidratante com ingredientes naturais. Ideal para presentear.", "variacoes": [], "linkPagamento": "", "disponivel": true, "destaque": true },
+  { "id": "caneca", "nome": "Caneca Artesanal", "preco": 49.9, "imagem": "img/produto3.svg", "categoria": "Casa", "descricao": "Caneca de cerâmica feita à mão. Cada peça é única. 300 ml.", "variacoes": ["Verde", "Areia", "Branca"], "linkPagamento": "", "disponivel": true },
+  { "id": "ecobag", "nome": "Ecobag Estampada", "preco": 39.9, "imagem": "img/produto4.svg", "categoria": "Acessórios", "descricao": "Algodão cru com estampa exclusiva em serigrafia.", "variacoes": [], "linkPagamento": "", "disponivel": true },
+  { "id": "sabonete-argila", "nome": "Sabonete de Argila", "preco": 24.9, "imagem": "img/produto5.svg", "categoria": "Cuidados", "descricao": "Sabonete vegano de argila verde para limpeza profunda.", "variacoes": [], "linkPagamento": "", "disponivel": true },
+  { "id": "difusor", "nome": "Difusor de Ambientes", "preco": 79.9, "imagem": "img/produto6.svg", "categoria": "Casa", "descricao": "Difusor de varetas com fragrância floral suave. 250 ml.", "variacoes": [], "linkPagamento": "", "disponivel": false }
+]

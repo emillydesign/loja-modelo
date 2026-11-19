@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Loja</title>
+<meta name="description" content="Loja online">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link id="fonts" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@600;700;800&display=swap">
+<link rel="stylesheet" href="css/loja.css?v=2">
+</head>
+<body>
+<div class="aviso" id="aviso" hidden></div>
+<header class="top">
+  <a href="#" class="logo" id="logo">Loja</a>
+  <button class="cartbtn" id="openCart" aria-label="Abrir carrinho">🛍 <span id="count">0</span></button>
+</header>
+<main>
+  <section class="hero" id="hero"></section>
+  <section class="wrap" id="produtos">
+    <div class="filters" id="filters"></div>
+    <div class="grid" id="grid"></div>
+  </section>
+  <section class="wrap sobre" id="sobre"></section>
+</main>
+<footer class="foot" id="foot"></footer>
+
+<div class="overlay" id="overlay" hidden></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <div class="drawer-head"><h2>Seu carrinho</h2><button class="x" id="closeCart" aria-label="Fechar">✕</button></div>
+  <div id="cartBody"></div>
+</aside>
+<div class="modal" id="modal" hidden></div>
+<a class="wa" id="waFloat" target="_blank" rel="noopener" aria-label="WhatsApp">💬</a>
+<script src="js/loja.js?v=2"></script>
+</body>
+</html>

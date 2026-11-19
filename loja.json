@@ -1,0 +1,19 @@
+{
+  "nome": "Ateliê Verde",
+  "slogan": "Feito à mão, com calma e carinho",
+  "whatsapp": "5511999999999",
+  "instagram": "seuinstagram",
+  "cores": { "fundo": "#f6fbf7", "texto": "#10261b", "destaque": "#0f9d6b", "botaoTexto": "#ffffff", "suave": "#e3f2e8" },
+  "fonteTitulos": "Sora",
+  "fonteTexto": "Inter",
+  "banner": {
+    "titulo": "Cuidado em cada detalhe",
+    "texto": "Produtos naturais e artesanais para deixar sua casa (e sua rotina) mais leve.",
+    "botao": "Ver produtos",
+    "imagem": "img/produto2.svg"
+  },
+  "frete": { "valor": 15, "gratisAcima": 150, "retirada": true, "observacao": "Entregamos em toda a cidade em até 3 dias úteis." },
+  "pagamentos": ["Pix", "Cartão (link de pagamento)", "Dinheiro na entrega"],
+  "sobre": "Somos um pequeno ateliê que cria produtos naturais e artesanais em pequenas quantidades.",
+  "aviso": "Frete grátis acima de R$ 150"
+}
